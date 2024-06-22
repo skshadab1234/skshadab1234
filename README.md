@@ -1,16 +1,24 @@
-## Hi there 👋
+# Shadab Khan 👨‍💻
 
-<!--
-**skshadab1234/skshadab1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Full Stack Developer | Next.js | Node.js | PostgreSQL | MongoDB | Firebase | Auth0
 
-Here are some ideas to get you started:
+### About Me ℹ️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi there! My name is Shadab Khan, a passionate full stack developer with expertise in building scalable web applications using cutting-edge technologies like Next.js, Node.js, and various databases including PostgreSQL and MongoDB. I have a strong background in authentication systems, having implemented solutions with Firebase and Auth0.
+
+### Skills 🛠️
+
+- **Frontend:** Next.js, React, HTML, CSS, JavaScript
+- **Backend:** Node.js, Express.js
+- **Databases:** PostgreSQL, MongoDB, Firebase Firestore
+- **Authentication:** Firebase Authentication, Auth0
+- **Other Technologies:** RESTful APIs, Git, JWT
+
+### Contact Me 📫
+
+- LinkedIn: [Connect with me on LinkedIn](https://www.linkedin.com/in/pshadab)
+- Email: [pwscoding@gmail.com]
+
+### Let's Connect! 🤝
+
+Feel free to reach out if you're interested in collaborating on projects or discussing opportunities.
