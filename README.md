@@ -1,6 +1,6 @@
 # Shadab Khan 👨‍💻
 
-## Full Stack Developer | Next.js | Node.js | PostgreSQL | MongoDB | Firebase | Auth0
+## Full Stack Developer | React Native | Next.js | Node.js | PostgreSQL | MongoDB | Firebase | Auth0
 
 ### About Me ℹ️
 
